@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ## Usage
 
 To launch the Streamlit web application:
-1. Make sure you are in the project directory, type open CMD in project folder to open the command prompt. Then run the command below:
+1. Make sure you are in the project directory, type CMD into the searchbar in the project folder to open the command prompt. Then run the command below:
 
 ```bash
 python -m run app.py
@@ -87,4 +87,5 @@ Then, you will be redirected to the Streamlit web application. Wait for the mode
         *- Nguyen Quang Huy*
         *- Phan Trong Nghia*
         *- Tran Van Nhat*
+
 
