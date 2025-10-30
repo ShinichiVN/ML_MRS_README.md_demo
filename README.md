@@ -40,6 +40,8 @@ ML_Movie_Recommendation_System/
 
 ## Installation
 
+You need to install the required libraries in order for the codes to work.
+
 ```bash
 pip install -r requirements.txt
 ```
@@ -85,3 +87,4 @@ Then, you will be redirected to the Streamlit web application. Wait for the mode
         *- Nguyen Quang Huy*
         *- Phan Trong Nghia*
         *- Tran Van Nhat*
+
